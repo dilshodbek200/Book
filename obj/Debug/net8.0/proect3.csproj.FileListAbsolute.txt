@@ -1,0 +1,14 @@
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\proect3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\proect3.AssemblyInfoInputs.cache
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\proect3.AssemblyInfo.cs
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\proect3.csproj.CoreCompileInputs.cache
+C:\Users\hp\PROECTS\proect3\bin\Debug\net8.0\proect3.exe
+C:\Users\hp\PROECTS\proect3\bin\Debug\net8.0\proect3.deps.json
+C:\Users\hp\PROECTS\proect3\bin\Debug\net8.0\proect3.runtimeconfig.json
+C:\Users\hp\PROECTS\proect3\bin\Debug\net8.0\proect3.dll
+C:\Users\hp\PROECTS\proect3\bin\Debug\net8.0\proect3.pdb
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\proect3.dll
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\refint\proect3.dll
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\proect3.pdb
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\proect3.genruntimeconfig.cache
+C:\Users\hp\PROECTS\proect3\obj\Debug\net8.0\ref\proect3.dll
